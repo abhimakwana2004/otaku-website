@@ -1,0 +1,6 @@
+@media ( max-width:1300px){
+    .nav{
+        display: grid;
+        grid-template-columns: 3fr 4fr;
+    }
+}
